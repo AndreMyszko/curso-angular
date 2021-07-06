@@ -109,6 +109,26 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "It",
+      "urlFoto": "https://th.bing.com/th/id/R.b474dd82977d0c36b4da7014d1e08489?rik=mMBh3osf%2fhqAhQ&pid=ImgRaw",
+      "dtLancamento": "2017-09-07T03:00:00.000Z",
+      "descricao": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+      "nota": 7.3,
+      "urlIMDb": "https://www.imdb.com/title/tt1396484/",
+      "genero": "Terror",
+      "id": 12
+    },
+    {
+      "titulo": "Saving Private Ryan",
+      "urlFoto": "https://th.bing.com/th/id/R.d5a046ac7fe62908f2db9d9424ab81d5?rik=0YktzrLNvlsdow&pid=ImgRaw",
+      "dtLancamento": "2021-07-15T03:00:00.000Z",
+      "descricao": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "nota": 8.6,
+      "urlIMDb": "https://www.imdb.com/title/tt0120815/",
+      "genero": "Ação",
+      "id": 13
     }
   ]
 }
