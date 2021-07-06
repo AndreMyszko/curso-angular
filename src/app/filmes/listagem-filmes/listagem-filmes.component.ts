@@ -12,7 +12,7 @@ import { ConfigPrams } from 'src/app/shared/models/config-prams';
   styleUrls: ['./listagem-filmes.component.scss']
 })
 export class ListagemFilmesComponent implements OnInit {
-  readonly semFoto = 'https://www.termoparts.com.br/wp-content/uploads/2017/10/no-image.jpg';
+  readonly semFoto = 'https://th.bing.com/th/id/R.0d92d616a62a206e25ff225aa8eb895e?rik=6n9%2bIzamBXhHMg&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fq%2fL%2fP%2fY%2ft%2f6%2fno-image-available-hi.png&ehk=nNlk%2b17NB%2bDCsszga53NPRne4iPI2is1ZToy%2fHBX9Hk%3d&risl=&pid=ImgRaw';
 
   config: ConfigPrams = {
     pagina: 0,
